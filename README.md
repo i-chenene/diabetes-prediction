@@ -1,10 +1,10 @@
-# 🩺 Diabetes Prediction — Machine Learning Project
+# Diabetes Prediction — Machine Learning Project
 
 **Goal:** Predict diabetes risk score and classify diabetes stage using statistical learning methods.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project explores two complementary tasks based on the *Diabetes Health Indicators* dataset:
 
@@ -26,29 +26,16 @@ Key techniques:
 
 ---
 
-## 📊 Main Results
+## Main Results
 
-### ✔️ Regression
+### Regression
 - High R² score  
 - Small set of features explains most variance  
 - Statistically significant coefficients identified via p-values and confidence intervals  
 
-### ✔️ Classification
+### Classification
 - Initial model biased toward majority classes  
 - After downsampling: balanced recall across stages  
 - Improved detection of rare and clinically important categories  
-
----
-
-## 🧪 Methods & Tools
-
-### **Models**
-- Linear Regression  
-- Random Forest Classifier  
-- Evaluation metrics:  
-  - R²  
-  - Accuracy  
-  - Recall (per class)  
-  - Confusion matrix  
 
 ---
