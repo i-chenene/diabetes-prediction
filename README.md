@@ -6,9 +6,6 @@ A machine learning project tackling diabetes prediction from two angles: **regre
 
 The interesting part isn't just the models — it's dealing with heavy class imbalance in the classification task and figuring out which handful of features actually matter for prediction.
 
-Built as a duo project.
-
-
 
 ## Dataset
 
